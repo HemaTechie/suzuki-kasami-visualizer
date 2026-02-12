@@ -1,0 +1,5 @@
+{
+  "name": "Suzuki-Kasami Visualizer",
+  "description": "An interactive visualization of the Suzuki-Kasami token-based mutual exclusion algorithm in distributed systems, featuring real-time state tracking and message passing animations.",
+  "requestFramePermissions": []
+}
